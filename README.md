@@ -17,14 +17,5 @@ A simple React-based Recipe Finder using [TheMealDB API](https://www.themealdb.c
 - CSS
 - TheMealDB API
 
-## 📂 Projet
-src/
-│
-├── components/
-│ ├── Mainpage.jsx // Search and default meals
-│ ├── MealCard.jsx // Individual meal card
-│ └── MealInfo.jsx // Full meal details
-│
-├── App.js // Routing
-└── index.js // Entry pointct Structure
+
 
